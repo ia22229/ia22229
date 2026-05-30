@@ -110,10 +110,7 @@ const irfanAhmed = {
 ##  GitHub Stats
 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ia22229&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&v=2)](https://github.com/ia22229)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ia22229&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&v=2)](https://github.com/ia22229)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ia22229&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true" width="100%"/>
 </div>
 
 ---
