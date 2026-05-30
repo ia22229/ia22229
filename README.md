@@ -27,7 +27,7 @@
 
 <table>
 <tr>
-<td valign="top" width="60%">
+<td valign="top" width="40%">
 
 ```javascript
 const irfanAhmed = {
@@ -50,7 +50,7 @@ const irfanAhmed = {
 ```
 
 </td>
-<td valign="top" width="40%" align="center">
+<td valign="top" width="60%" align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Coding GIF"/>
 </td>
 </tr>
