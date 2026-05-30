@@ -23,7 +23,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 <table>
 <tr>
@@ -32,19 +32,19 @@
 ```javascript
 const irfanAhmed = {
   name     : "Irfan Ahmed",
-  location : "Kerala, India 🌴",
+  location : "Kerala, India ",
   degree   : "B.Tech CSE — MEA Engineering College (2025)",
   stack    : [
     "React", "Node.js", "Express", "MongoDB",
     "Python", "Django", "Flask", "OpenCV", "YOLOv3"
   ],
   learning : [
-    "System Design", "TypeScript",
-    "Docker &amp; CI/CD", "Advanced DSA"
+    "Core AI", "Deep Learning",
+    "Computer Vision"
   ],
-  openTo   : "Full-time Software Developer roles 🚀",
+  openTo   : "Full-time Software Developer roles ",
   funFact  : "Built a CV system that reads licence"
-           + " plates to auto-bill commuters 🚗📸",
+           + " plates to auto-bill commuters ",
   motto    : () => "Ship it. Learn from it. Build better.",
 };
 ```
@@ -58,7 +58,7 @@ const irfanAhmed = {
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -107,7 +107,7 @@ const irfanAhmed = {
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <a href="https://github.com/ia22229">
@@ -120,7 +120,7 @@ const irfanAhmed = {
 
 ---
 
-## 🔥 Streak Stats
+##  Streak Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ia22229&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=70A5FD&amp;fire=BF91F3&amp;currStreakLabel=70A5FD&amp;sideLabels=38BDAE&amp;dates=8B949E&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;stroke=0D1117&amp;border_radius=10"/>
@@ -128,7 +128,7 @@ const irfanAhmed = {
 
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ia22229&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true" width="100%"/>
@@ -136,7 +136,7 @@ const irfanAhmed = {
 
 ---
 
-## 🏆 Trophy Wall
+##  Trophy Wall
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ia22229&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=4"/>
@@ -144,10 +144,10 @@ const irfanAhmed = {
 
 ---
 
-## 💼 Work Experience
+##  Work Experience
 
 <details>
-  <summary><b>🏢 Full-Stack Python Web Development Intern — Techmaghi · 2024</b></summary>
+  <summary><b> Full-Stack Python Web Development Intern — Techmaghi · 2024</b></summary>
 
 > **Stack:** `Python` `Django` `Flask` `JavaScript` `REST APIs` `MySQL` `MongoDB` `CRUD`
 
@@ -159,7 +159,7 @@ const irfanAhmed = {
 </details>
 
 <details>
-  <summary><b>🤖 AI &amp; Robotics Intern — Stem Robotics · 2024</b></summary>
+  <summary><b> AI &amp; Robotics Intern — Stem Robotics · 2024</b></summary>
 
 > **Stack:** `Python` `OpenCV` `YOLOv3` `Computer Vision` `Flask` `AI/ML` `Robotics`
 
@@ -172,17 +172,17 @@ const irfanAhmed = {
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [🤖 **WhatsApp AI Chatbot — Skin Clinic**](https://github.com/ia22229) | Node.js · WhatsApp Business API · AI NLP · MongoDB | Deployed live chatbot for a real skin clinic; handles patient queries, appointment triage & automated FAQ — production system serving real users |
-| [🧃 **Juice Corner POS System**](https://juicecorner.vercel.app) | React · Node.js · Express · MongoDB Atlas · Tailwind CSS | Full-stack POS for a live retail business — real-time order, inventory & billing dashboard; deployed on Vercel + Render |
-| [🚗 **Automated Transit Billing — CV**](https://github.com/ia22229) | Python · OpenCV · YOLOv3 · Flask · MySQL | Real-time licence plate detection with automated fare calculation; built during AI internship at Stem Robotics |
-| [🌐 **Protofolio — Developer Portfolio**](https://irfanahmed2229.vercel.app) | React · Node.js · Express · MongoDB · Firebase · Nodemailer | Full MERN portfolio with Firebase Google Auth admin panel, dark/light theme, morphing blob frame, Nodemailer contact form; live on Vercel + Render |
-| [🏥 **Clinic Digital Transformation Website**](https://github.com/ia22229) | React · Node.js · MongoDB · CSS3 | Modern patient-facing website for a local clinic — responsive design, service listings & appointment inquiry form |
+| [ **WhatsApp AI Chatbot — Skin Clinic**](https://github.com/ia22229) | Node.js · WhatsApp Business API · AI NLP · MongoDB | Deployed live chatbot for a real skin clinic; handles patient queries, appointment triage & automated FAQ — production system serving real users |
+| [ **Juice Corner POS System**](https://juicecorner.vercel.app) | React · Node.js · Express · MongoDB Atlas · Tailwind CSS | Full-stack POS for a live retail business — real-time order, inventory & billing dashboard; deployed on Vercel + Render |
+| [ **Automated Transit Billing — CV**](https://github.com/ia22229) | Python · OpenCV · YOLOv3 · Flask · MySQL | Real-time licence plate detection with automated fare calculation; built during AI internship at Stem Robotics |
+| [ **Protofolio — Developer Portfolio**](https://irfanahmed2229.vercel.app) | React · Node.js · Express · MongoDB · Firebase · Nodemailer | Full MERN portfolio with Firebase Google Auth admin panel, dark/light theme, morphing blob frame, Nodemailer contact form; live on Vercel + Render |
+| [ **Clinic Digital Transformation Website**](https://github.com/ia22229) | React · Node.js · MongoDB · CSS3 | Modern patient-facing website for a local clinic — responsive design, service listings & appointment inquiry form |
 
 </div>
 
@@ -194,18 +194,17 @@ const irfanAhmed = {
 
 | | Achievement | Details |
 |:---:|:------------|:--------|
-| 🎓 | **B.Tech Computer Science — Graduated** | APJ Abdul Kalam Technological University · MEA Engineering College · Class of 2025 |
-| 📋 | **TCS iON NQT Cleared** | National Qualifier Test — IT Base Tier · Cleared as a fresher |
-| 🐍 | **Full-Stack Python Web Dev Certification** | Techmaghi Internship — Django · Flask · REST APIs · MySQL/MongoDB |
-| 🤖 | **AI & Robotics Certification** | Stem Robotics Internship — OpenCV · YOLOv3 · CV Pipelines · Robotics Prototyping |
-| 🚀 | **5 Live Production Systems** | All 5 projects independently built, deployed & serving real users — solo from concept to production |
-| 🌐 | **Full MERN Stack Deployment** | Portfolio live on Vercel (frontend) + Render (backend) + MongoDB Atlas with Firebase Auth admin panel |
+|  | **B.Tech Computer Science — Graduated** | APJ Abdul Kalam Technological University · MEA Engineering College · Class of 2025 |
+|  | **Full-Stack Python Web Dev Certification** | Techmaghi Internship — Django · Flask · REST APIs · MySQL/MongoDB |
+|  | **AI & Robotics Certification** | Stem Robotics Internship — OpenCV · YOLOv3 · CV Pipelines · Robotics Prototyping |
+|  | **5 Live Production Systems** | All 5 projects independently built, deployed & serving real users — solo from concept to production |
+|  | **Full MERN Stack Deployment** | Portfolio live on Vercel (frontend) + Render (backend) + MongoDB Atlas with Firebase Auth admin panel |
 
 </div>
 
 ---
 
-## 🎓 Education
+##  Education
 
 <div align="center">
 
@@ -217,14 +216,12 @@ const irfanAhmed = {
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 ```
-🧱 System Design         →  HLD · LLD · Microservices · Caching · Load Balancing
-🟦 TypeScript            →  Types · Interfaces · Generics · TS with React & Node
-🐳 DevOps Foundations    →  Docker · GitHub Actions · CI/CD Pipelines
-⚡  DSA Deep Dive         →  Arrays · Trees · Graphs · DP · Competitive Problem Solving
-🔐 Auth & Security       →  OAuth 2.0 · JWT Best Practices · HTTPS · CORS Hardening
+ Core AI           →  Machine Learning · Natural Language Processing (NLP)
+ Computer Vision   →  OpenCV · YOLOv3 · Real-time Object Detection
+ Deep Learning     →  Neural Networks · Model Training & Fine-tuning
 ```
 
 ---
