@@ -27,20 +27,20 @@
 
 <table>
 <tr>
-<td valign="top" width="40%">
+<td valign="top" width="60%">
 
 ```javascript
 const irfanAhmed = {
   name     : "Irfan Ahmed",
   location : "Kerala, India ",
   degree   : "B.Tech CSE — MEA Engineering College (2025)",
-  stack    : [
+  Tech stack    : [
     "React", "Node.js", "Express", "MongoDB",
     "Python", "Django", "Flask", "OpenCV", "YOLOv3"
   ],
   learning : [
-    "Core AI", "Deep Learning",
-    "Computer Vision"
+    "Core AI", "Computer Vision",
+    "Deep Learning"
   ],
   openTo   : "Full-time Software Developer roles ",
   funFact  : "Built a CV system that reads licence"
@@ -50,7 +50,7 @@ const irfanAhmed = {
 ```
 
 </td>
-<td valign="top" width="60%" align="center">
+<td valign="top" width="40%" align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Coding GIF"/>
 </td>
 </tr>
@@ -110,12 +110,14 @@ const irfanAhmed = {
 ##  GitHub Stats
 
 <div align="center">
+<p align="center">
   <a href="https://github.com/ia22229">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ia22229&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Irfan Ahmed's GitHub Stats" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ia22229&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/ia22229">
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ia22229&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages" />
   </a>
+</p>
 </div>
 
 ---
