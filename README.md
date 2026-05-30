@@ -25,29 +25,36 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ```javascript
 const irfanAhmed = {
-  name        : "Irfan Ahmed",
-  location    : "Kerala, India 🌴",
-  degree      : "B.Tech CSE — MEA Engineering College (2025)",
-  stack       : ["React", "Node.js", "Express", "MongoDB",
-                 "Python", "Django", "Flask", "OpenCV", "YOLOv3"],
-  currentlyLearning : [
-    "System Design",
-    "TypeScript",
-    "Docker & CI/CD",
-    "Advanced DSA"
+  name     : "Irfan Ahmed",
+  location : "Kerala, India 🌴",
+  degree   : "B.Tech CSE — MEA Engineering College (2025)",
+  stack    : [
+    "React", "Node.js", "Express", "MongoDB",
+    "Python", "Django", "Flask", "OpenCV", "YOLOv3"
   ],
-  openTo      : "Full-time Software Developer roles 🚀",
-  funFact     : "I once built a CV system that reads licence plates"
-                + " to bill commuters — in college! 🚗📸",
-  motto       : () => "Ship it. Learn from it. Build better.",
+  learning : [
+    "System Design", "TypeScript",
+    "Docker & CI/CD", "Advanced DSA"
+  ],
+  openTo   : "Full-time Software Developer roles 🚀",
+  funFact  : "Built a CV system that reads licence"
+           + " plates to auto-bill commuters 🚗📸",
+  motto    : () => "Ship it. Learn from it. Build better.",
 };
 ```
 
-<br clear="right"/>
+</td>
+<td valign="top" width="40%" align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Coding GIF"/>
+</td>
+</tr>
+</table>
 
 ---
 
