@@ -1,23 +1,23 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Irfan%20Ahmed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%C2%B7%20MERN%20%C2%B7%20Python%20%C2%B7%20AI%20%26%20Computer%20Vision&descAlignY=62&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Irfan%20Ahmed&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Full-Stack%20Developer%20%C2%B7%20MERN%20%C2%B7%20Python%20%C2%B7%20AI%20%26%20Computer%20Vision&amp;descAlignY=62&amp;descSize=16" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Irfan+Ahmed+%F0%9F%91%8B;Full-Stack+Developer+%7C+MERN+%2B+Python;Building+AI-Powered+%26+CV+Systems;Open+to+Software+Developer+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Hey%2C+I'm+Irfan+Ahmed+%F0%9F%91%8B;Full-Stack+Developer+%7C+MERN+%2B+Python;Building+AI-Powered+%26+CV+Systems;Open+to+Software+Developer+Roles+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <a href="https://irfanahmed2229.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-irfanahmed2229.vercel.app-FF6B35?style=flat-square&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-irfanahmed2229.vercel.app-FF6B35?style=flat-square&amp;logo=vercel&amp;logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/ia2229" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ia2229-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-ia2229-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white"/>
   </a>
   <a href="mailto:irfan22ahmed22@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-irfan22ahmed22-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-irfan22ahmed22-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white"/>
   </a>
   <a href="https://github.com/ia22229">
-    <img src="https://komarev.com/ghpvc/?username=ia22229&color=70a5fd&style=flat-square&label=Profile+Views"/>
+    <img src="https://komarev.com/ghpvc/?username=ia22229&amp;color=70a5fd&amp;style=flat-square&amp;label=Profile+Views"/>
   </a>
 </div>
 
@@ -40,7 +40,7 @@ const irfanAhmed = {
   ],
   learning : [
     "System Design", "TypeScript",
-    "Docker & CI/CD", "Advanced DSA"
+    "Docker &amp; CI/CD", "Advanced DSA"
   ],
   openTo   : "Full-time Software Developer roles 🚀",
   funFact  : "Built a CV system that reads licence"
@@ -111,10 +111,10 @@ const irfanAhmed = {
 
 <div align="center">
   <a href="https://github.com/ia22229">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ia22229&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ia22229&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10"/>
   </a>
   <a href="https://github.com/ia22229">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ia22229&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ia22229&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10"/>
   </a>
 </div>
 
@@ -123,7 +123,7 @@ const irfanAhmed = {
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ia22229&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+  <img src="https://streak-stats.demolab.com?user=ia22229&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=70A5FD&amp;fire=BF91F3&amp;currStreakLabel=70A5FD&amp;sideLabels=38BDAE&amp;dates=8B949E&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;stroke=0D1117&amp;border_radius=10"/>
 </div>
 
 ---
@@ -131,7 +131,7 @@ const irfanAhmed = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ia22229&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ia22229&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -139,7 +139,7 @@ const irfanAhmed = {
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ia22229&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ia22229&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=4"/>
 </div>
 
 ---
@@ -159,7 +159,7 @@ const irfanAhmed = {
 </details>
 
 <details>
-  <summary><b>🤖 AI & Robotics Intern — Stem Robotics · 2024</b></summary>
+  <summary><b>🤖 AI &amp; Robotics Intern — Stem Robotics · 2024</b></summary>
 
 > **Stack:** `Python` `OpenCV` `YOLOv3` `Computer Vision` `Flask` `AI/ML` `Robotics`
 
@@ -235,5 +235,5 @@ const irfanAhmed = {
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%"/>
 </div>
